@@ -1,0 +1,11 @@
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\bin\Debug\Biblioteca.Models.dll
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\bin\Debug\Biblioteca.Models.pdb
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\bin\Debug\Dapper.Contrib.dll
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\bin\Debug\Dapper.dll
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\bin\Debug\Dapper.xml
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\bin\Debug\Dapper.Contrib.xml
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\obj\Debug\Biblioteca.Models.csproj.AssemblyReference.cache
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\obj\Debug\Biblioteca.Models.csproj.CoreCompileInputs.cache
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\obj\Debug\Biblioteca.Models.csproj.CopyComplete
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\obj\Debug\Biblioteca.Models.dll
+C:\Estudo\Console\AcessoDados\Biblioteca.Models\obj\Debug\Biblioteca.Models.pdb
